@@ -1,7 +1,3 @@
-Certainly! Here's a polished and visually appealing version of your Markdown:
-
----
-
 ## 📘 JavaScript Notes  
 🔗 [JavaScript 101](https://www.notion.so/JavaScript-101-2172a89fe31d80d28b9ae4ec70106203)
 
@@ -31,5 +27,3 @@ Certainly! Here's a polished and visually appealing version of your Markdown:
 🔗 [HTTP Servers](https://www.notion.so/HTTP-Servers-2172a89fe31d8087951ffc796a7f0138)
 
 ---
-
-Let me know if you’d like to add descriptions, tags, or even turn these into a structured Notion index page!
