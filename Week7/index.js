@@ -11,7 +11,7 @@ const JWT_SECRET = "mysupersecretkey"
 
 async function connectDB() {
     try {
-        await mongoose.connect("mongodb+srv://Anu:AG%40512101@cluster0.fmem1n5.mongodb.net/TodoApp");
+        await mongoose.connect("/TodoApp");
         console.log("Connected to MongoDB");
     } catch (e) {
         console.error("MongoDB connection error:", e.message);
