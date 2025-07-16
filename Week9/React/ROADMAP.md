@@ -129,6 +129,3 @@ Master React and become interview-ready in 1 month with a structured path, learn
 
 ---
 
-**Tip:** Keep a GitHub log for daily commits. Document what you learn.
-
-Want a PDF version of this roadmap? Ask for it!
